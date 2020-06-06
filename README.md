@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/88620266.svg)](https://zenodo.org/badge/latestdoi/88620266)
+
 # Escape the Prison game
 Text adventure done with Unity
 
